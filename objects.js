@@ -54,12 +54,12 @@ const person = {
     status: ''
 }
 
-findAndLogEmployeeStatus(person)
-findAndLogEmployeeStatus({
-    name: 'lester',
-    status: ''
-})
-findAndLogEmployeeStatus({
-    name: prompt('Enter Employee Name'),
-    status: ''
-})
+// findAndLogEmployeeStatus(person)
+// findAndLogEmployeeStatus({
+//     name: 'lester',
+//     status: ''
+// })
+// findAndLogEmployeeStatus({
+//     name: prompt('Enter Employee Name'),
+//     status: ''
+// })
